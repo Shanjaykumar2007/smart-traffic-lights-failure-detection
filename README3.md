@@ -157,7 +157,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 &nbsp;
 
 ![][image3]
-
+![image3](schematic.png)
 &nbsp;
 
 &nbsp;
