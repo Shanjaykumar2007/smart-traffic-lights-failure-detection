@@ -43,7 +43,7 @@ At modern road intersections, automated traffic signal lights are the primary sa
 &nbsp;
 
 ![][image1]
-
+![image1](components.jpeg)
 &nbsp;
 
 &nbsp;
