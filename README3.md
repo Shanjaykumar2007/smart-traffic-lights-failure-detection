@@ -167,7 +167,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 RESULT&nbsp;
 
 ![][image4]
-
+![image4](resultbuzz.jpeg)
 &nbsp;
 
 The LDR-based traffic control and emergency buzzer alert system was successfully built and demonstrated. When light is present, the buzzer remains completely OFF. When light is absent , the system instantly activates the buzzer.&nbsp;
