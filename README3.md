@@ -129,7 +129,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 &nbsp;
 
 ![][image2]
-
+![image2](circuitBuzz.png)
 &nbsp;
 
 &nbsp;
